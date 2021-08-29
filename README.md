@@ -1,39 +1,15 @@
-# Maratona de Programação 3: Twitter
+<p align="center">
+ <img src="./assets/.github/twitter.png" alt="template"  width="900px"/>
+</p>
 
-Projeto desenvolvido na parte 3 da maratona de programação da Kenzie Academy Brasil.
+## 🚀 Tecnologias
 
-## Ferramentas
+Neste projeto foram utilizadas as seguintes tecnologias:
 
-1. [Instalação do VS Code no Windows](https://kenzie.com.br/blog/instalacao-vs-code-windows/)
-2. [Como utilizar o codepen e o VSCode](https://kenzie-academy-brasil.github.io/ferramentas/)
+- HTML
+- CSS
+- JS
 
-## O Projeto
+## 💻 Curso
 
-### Estrutura de arquivos 
-
-- README.md
-- index.html
-- /assets
-    - /img
-    - /js
-        - script.js
-    - /css
-        - style.css
-
-### Fonte
-
-- 'Roboto', sans-serif;
-
-### Cores
-
-- Azul principal: #1da1f2;
-    - Opacidade: 0.4;
-- Cinza: #828282;
-- Cinza escuro: #333333;
-- Cinza azulado: #e7ecf0;
-- Preto: #000000;
-- Branco: #ffffff;
-
-## Layout
-
-- [Twitter](./assets/.github/twitter.png)
+Projeto desenvolvido durante a III Maratona da [Kenzie Academy](https://kenzie.com.br/) que ocorreu no dia 28/08/2021, para aprendizado do HTML, CSS e JS. Durante o evento, foi desenvolvido uma cópia da home page do [Twitter](https://twitter.com/).
